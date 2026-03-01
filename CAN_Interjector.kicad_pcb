@@ -396,6 +396,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C22787"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f907f017-0bba-4f7c-9182-425aec6a90df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9ade3c4c-781f-489e-8658-c488fd10e274")
 		(sheetname "/")
@@ -1393,6 +1406,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C22787"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95fdb1cf-c7b4-4f70-87c3-c0ba3da69e03")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
