@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "exports/gbr/",
+      "pos_files": "exports/gbr/",
       "specctra_dsn": "",
-      "step": "CAN_Interjector.step",
+      "step": "exports/CAN_Interjector.step",
       "svg": "",
       "vrml": ""
     },
